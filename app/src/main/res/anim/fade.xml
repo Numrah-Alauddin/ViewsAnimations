@@ -7,6 +7,7 @@
         android:toAlpha="1"
         android:repeatCount="1"/>
 -->
+
     <scale
         android:duration="3000"
         android:fromXScale="0"
